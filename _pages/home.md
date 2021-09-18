@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "IES LAB 智能边缘系统实验室- Home 主页"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Intelligenct Edge Systems, School of Software, Yunnan University."
 sitemap: false
 permalink: /
 ---
