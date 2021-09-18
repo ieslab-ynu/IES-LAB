@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Intelligent Edge Systems Lab at the [School of Software](http://www.sei.ynu.edu.cn/). Our group targets the cutting edge research on edge systems, including edge intelligence, edge communication, edge resource management, etc. 
+Intelligent Edge Systems Lab at the [School of Software, Yunnan University](http://www.sei.ynu.edu.cn/). Our group targets the cutting edge research on edge systems, including edge intelligence, edge communication, edge resource management, etc. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -62,7 +62,7 @@ We are located at Leiden University, the birthplace of superconductivity and hom
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from Yunnan University, [NSFC](http://www.nsfc.gov.cn/) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from [Yunnan University](www.ynu.edu.cn), [NSFC](http://www.nsfc.gov.cn/) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
