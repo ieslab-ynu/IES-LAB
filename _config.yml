@@ -8,9 +8,9 @@
 # Site settings
 title: IES LAB @ YNU 智能边缘系统实验室 
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Intelligent Edge Systems Lab, School of Software, Yunnan University
+description: Intelligent Edge Systems Lab, School of Software, Yunnan University
   智能边缘系统实验室，实验室网页
+  > # this means to ignore newlines until "baseurl:" 
 baseurl: "/IES-LAB"
 url: "http://ieslab-ynu.github.io/"
 
