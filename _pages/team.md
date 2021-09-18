@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **实验室每年招收2，3年级本科生和新入学研究生加入课题组，学生可以根据兴趣选择指导老师，其他老师也会积极协助知道。具体详情参考信息。We are  looking for self-motivated Master students and bachelor students to join our team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **实验室每年招收2，3年级本科生和新入学研究生加入课题组，学生可以根据兴趣选择指导老师，其他老师也会积极协助指导。具体详情参考信息。We are  looking for self-motivated Master students and bachelor students to join our team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
@@ -26,7 +26,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <br>email: <{{ member.email }}> <br>Research Interests: <{{ member.interests }}></i> 
+  <i>{{ member.info }} <br> {{ member.interests}} </i> <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -90,7 +90,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} </i><!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}

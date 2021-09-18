@@ -1,14 +1,14 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "IES LAB 智能边缘实验室 - Team （团队） - Openings (招生)"
 layout: textlay
-excerpt: "Openings"
+excerpt: "IES Lab: Openings (团队成员)"
 sitemap: false
 permalink: /vacancies
 ---
 
 # Open positions
 
-**Note: We currently don't have funding for additional PhD and postdoc positions. We can only welcome you if you have a fellowship. I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)).**
+**实验室一年通常来说招收12个左右的研究生，希望加入本组的同学可以在完成获得初始成绩之后与老师联系。We currently don't have funding for additional PhD and postdoc positions. We can only welcome you if you have a fellowship. I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)).**
 
 
 
