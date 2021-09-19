@@ -8,16 +8,58 @@
 #  education3:
 #  education4:
 
-- name: Thijs van den Munckhof
+- name: Yu Yang（杨宇）
+  photo: rock.jpg
+  info: Master student
+  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+  
+- name: Hui Fang（方卉）
   photo: rock.jpg
   info: Master student
   email: m.ortego.larrazabal@umail.leidenuniv.nl
   number_educ: 0
   education1:
 
-- name: João van der Ven
+- name: Yi-Xiong Huang（黄亦雄）
   photo: rock.jpg
-  info: BSc student
+  info: Master student
+  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+
+- name: Ying Sun（孙影）
+  photo: rock.jpg
+  info: Master student
+  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+  
+- name: Zhi-Yuan Zhang（张志远）
+  photo: rock.jpg
+  info: Master student
+  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+  
+- name: Wan-Qiu Tian（田婉秋）
+  photo: rock.jpg
+  info: Master student
+  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+ 
+- name: Qing Wang（王庆）
+  photo: rock.jpg
+  info: Master student
+  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+
+- name: Ye-Da Ma（马冶达）
+  photo: rock.jpg
+  info: Master student
   email: m.ortego.larrazabal@umail.leidenuniv.nl
   number_educ: 0
   education1:
