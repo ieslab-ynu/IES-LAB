@@ -1,11 +1,25 @@
 - name: Shigui Yang(杨世贵)
   photo: ies.png
   duration: 2018-2021
-  info: 现就职于丽江市工业信息化局
-  email: 1757404846@qq.com
-  number_educ: 1
-  education1: 论文发表于TCAD，软件学报
-  education2:
-  education3:
-  education4:
+  supervisor: Di Liu
+  reward: Graduated with honor (优秀毕业生)
+  publication: TCAD，软件学报
+  job: 丽江市工业信息化局
+
+
+- name: Shigui Yang(杨世贵)
+  photo: ies.png
+  duration: 2018-2021
+  supervisor: Di Liu
+  reward: Graduated with honor (优秀毕业生)
+  publication: TCAD，软件学报
+  job: 丽江市工业信息化局
   
+  
+- name: Shigui Yang(杨世贵)
+  photo: ies.png
+  duration: 2018-2021
+  supervisor: Di Liu
+  reward: Graduated with honor (优秀毕业生)
+  publication: TCAD，软件学报
+  job: 丽江市工业信息化局

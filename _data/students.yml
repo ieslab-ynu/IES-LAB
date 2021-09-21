@@ -10,11 +10,10 @@
 
 - name: Yu Yang(杨宇)
   photo: ies.png
-  info: Master student
-  email: 1048780146@qq.com
-  number_educ: 2
-  education1: 2019-2022
-  education2: Supervisor-Di Liu
+  info: Di Liu
+  time: 2019-2022
+  research: Adaptive Deep Neural Network
+  publication: ASP-DAC, 软件学报, ICITES
   
 - name: Hui Fang(方卉)
   photo: ies.png

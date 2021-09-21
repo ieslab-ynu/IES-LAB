@@ -5,15 +5,28 @@
 #  number_educ: 2
 #  education1: 入学时间
 #  education2: 指导教师
-#  education3:
-#  education4:
+#  education3: 有论文写论文，没有论文写研究方向
+
+
+- name: Zehan Wang(王泽涵)
+  photo: ies.png
+  supervisor: Di Liu
+  time: 2020-2022
+  research: On-Device Incremental Learning
+  publication: ASP-DAC (First author)
+
+- name: Zhichao Zhao(赵志超)
+  photo: ies.png
+  supervisor: Di Liu
+  time: 2020-2022
+  research: On-Device Pruning
+  publication: 
 
 
 - name: Jinwei Li(李进伟)
   photo: ies.png
-  info: Bachelor student
-  email: 947401826@qq.com
-  number_educ: 2
-  education1: 2021-2023
-  education2: Supervisor-Di Liu
+  supervisor: Di Liu
+  time: 2021-2023
+  research: Incremental Learning
+  publication: 
 

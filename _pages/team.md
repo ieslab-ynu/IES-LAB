@@ -11,9 +11,9 @@ permalink: /team/
  **实验室每年招收2，3年级本科生和新入学研究生加入课题组，学生可以根据兴趣选择指导老师，其他老师也会积极协助指导。具体详情参考信息。We are  looking for self-motivated Master students and bachelor students to join our team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master students](#master-students), [bachelor students](#bachelor-students)，[alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [staff](#staff-教师), [master students](#master-students-研究生), [bachelor students](#bachelor-students-本科生)，[alumni](#alumni-毕业).
 
-## Staff （教师）
+## Staff-教师
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master students](#master-students), [bachelor students
 
 
 
-## Master Students（研究生）
+## Master Students-研究生
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -91,32 +91,13 @@ Jump to [staff](#staff), [master students](#master-students), [bachelor students
 <div class="col-sm-6 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/studentpic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
+  <i>{{ member.time }}, Supervisor: {{ member.info }}  <!-- <br>email: <{{ member.email }}></i> -->
+   <ul style="overflow: hidden">
+    <li>Research Interests: {{ member.research }} </li>
+    <li>Publication: {{ member.publication }}  </li>
+    <li>Reward: {{ member.reward }} </li> 
+    </ul>
+  
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -132,7 +113,7 @@ Jump to [staff](#staff), [master students](#master-students), [bachelor students
 </div>
 {% endif %}
 
-## Bachelor Students（本科生）
+## Bachelor Students-本科生
 {% assign number_printed = 0 %}
 {% for member in site.data.bstudents %}
 
@@ -145,32 +126,11 @@ Jump to [staff](#staff), [master students](#master-students), [bachelor students
 <div class="col-sm-6 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/studentpic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
+  <i>Supervisor: {{ member.supervisor }} <!-- <br>email: <{{ member.email }}></i> -->
+   <br> Time: {{ member.time }} 
+   <br> Research: {{ member.research }} 
+   <br> Publication: {{ member.publication }} 
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -200,12 +160,14 @@ Jump to [staff](#staff), [master students](#master-students), [bachelor students
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/studentpic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
+  <i>{{ member.duration }}, Supervisor: {{ member.supervisor }} </i>
+   <ul style="overflow: hidden">
+    <li>Publication: {{ member.publication }}  </li> 
+    <li>Reward: {{ member.reward }} </li>
+    <li> 毕业去向: {{ member.job }} </li>
+    </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

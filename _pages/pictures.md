@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "IES LAB 智能边缘系统实验室- Pictures 照片"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "IES Lab -- Pictures 照片"
 permalink: /pictures/
 ---
 

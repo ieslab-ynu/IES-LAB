@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "IES LAB 智能边缘系统实验室- Publications 论文"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "IES Lab -- Publications 论文."
 sitemap: false
 permalink: /publications/
 ---

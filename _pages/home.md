@@ -46,10 +46,10 @@ IES Lab is co-directed by 4 faculty members from School of Software, Yunnan Univ
 智能边缘系统实验室是由软件学院的4位老师共同管理，包括两位副教授和两位讲师。实验室一般有25名研究生和10名左右的本科生。智能边缘系统实验室主要为边缘系统研究和开发新的算法、系统和框架。在学生和老师的共同努力下，实验室研究成果已经在国际和国内顶级会议期刊发表，如 **TCAD, TC, TPDS, TGCN, TWC, DAC, RTSS, RTAS DATE, ICCD, ASP-DAC**, 等等。
 
 
- **实验室每年招收2，3年级本科生和新入学研究生加入课题组，学生可以根据兴趣选择指导老师，其他老师也会积极协助指导。具体详情参考信息。We are  looking for self-motivated Master students and bachelor students to join our team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **实验室每年招收2，3年级本科生和新入学研究生加入课题组，学生可以根据兴趣选择指导老师，其他老师也会积极协助指导。具体详情参考信息。** [(更多信息)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from [NSFC](http://www.nsfc.gov.cn/),  [Yunnan University](www.ynu.edu.cn) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from [NSFC](http://www.nsfc.gov.cn/), [Yunnan Provincial Science and Technology Department](http://kjt.yn.gov.cn/), [Yunnan University](www.ynu.edu.cn).
 
 <figure class="two">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nsfc.png" style="width: 210px">
