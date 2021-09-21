@@ -11,7 +11,7 @@ permalink: /team/
  **实验室每年招收2，3年级本科生和新入学研究生加入课题组，学生可以根据兴趣选择指导老师，其他老师也会积极协助指导。具体详情参考信息。We are  looking for self-motivated Master students and bachelor students to join our team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff-教师), [master students](#master-students-研究生), [bachelor students](#bachelor-students-本科生)，[alumni](#alumni-毕业).
+Jump to [staff 教师](#staff-教师), [master students 研究生](#master-students-研究生), [bachelor students 本科生](#bachelor-students-本科生)，[alumni 毕业学生](#alumni-毕业学生).
 
 ## Staff-教师
 {% assign number_printed = 0 %}
@@ -148,7 +148,7 @@ Jump to [staff](#staff-教师), [master students](#master-students-研究生), [
 
 
 
-## Alumni （毕业学生）
+## Alumni-毕业学生
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -164,6 +164,7 @@ Jump to [staff](#staff-教师), [master students](#master-students-研究生), [
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }}, Supervisor: {{ member.supervisor }} </i>
    <ul style="overflow: hidden">
+   <li>Degree: {{ member.degree }}</li>
     <li>Publication: {{ member.publication }}  </li> 
     <li>Reward: {{ member.reward }} </li>
     <li> 毕业去向: {{ member.job }} </li>

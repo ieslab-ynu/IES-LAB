@@ -1,6 +1,7 @@
 - name: Shigui Yang(杨世贵)
   photo: ies.png
   duration: 2018-2021
+  degree: Master
   supervisor: Di Liu
   reward: Graduated with honor (优秀毕业生)
   publication: TCAD，软件学报
@@ -10,6 +11,7 @@
 - name: Shigui Yang(杨世贵)
   photo: ies.png
   duration: 2018-2021
+  degree:
   supervisor: Di Liu
   reward: Graduated with honor (优秀毕业生)
   publication: TCAD，软件学报
@@ -19,6 +21,7 @@
 - name: Shigui Yang(杨世贵)
   photo: ies.png
   duration: 2018-2021
+  degree:
   supervisor: Di Liu
   reward: Graduated with honor (优秀毕业生)
   publication: TCAD，软件学报

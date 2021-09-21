@@ -1,8 +1,8 @@
-I"�;<h1 id="group-members">Group Members</h1>
+I"�<<h1 id="group-members">Group Members</h1>
 
 <p><strong>实验室每年招收2，3年级本科生和新入学研究生加入课题组，学生可以根据兴趣选择指导老师，其他老师也会积极协助指导。具体详情参考信息。We are  looking for self-motivated Master students and bachelor students to join our team</strong> <a href="https://ieslab-ynu.github.io/ies-lab/vacancies">(see openings)</a> <strong>!</strong></p>
 
-<p>Jump to <a href="#staff-教师">staff</a>, <a href="#master-students-研究生">master students</a>, <a href="#bachelor-students-本科生">bachelor students</a>，<a href="#alumni-毕业">alumni</a>.</p>
+<p>Jump to <a href="#staff-教师">staff 教师</a>, <a href="#master-students-研究生">master students 研究生</a>, <a href="#bachelor-students-本科生">bachelor students 本科生</a>，<a href="#alumni-毕业学生">alumni 毕业学生</a>.</p>
 
 <h2 id="staff-教师">Staff-教师</h2>
 
@@ -86,7 +86,7 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/teampic/liudi.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Di Liu (刘迪)</h4>
-    <p><i>Assistant professor, started Apr 2020 <br /> edge intelligence, deep learning optimization, embedded systems <br /> dliu at ynu dot edu dot cn <!--<br>email: <dliu at ynu dot edu dot cn></i> --></i></p>
+    <p><i>Assistant professor, started Apr 2018 <br /> edge intelligence, deep learning optimization, embedded systems <br /> dliu at ynu dot edu dot cn <!--<br>email: <dliu at ynu dot edu dot cn></i> --></i></p>
     <ul style="overflow: hidden">
 
   
@@ -116,11 +116,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/ies.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Yu Yang(杨宇)</h4>
-    <p><i>Time: 2019-2022  <!-- <br>email: <></i> --></i></p>
+    <p><i>2019-2022, Supervisor: Di Liu  <!-- <br>email: <></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Di Liu </li>
     <li>Research Interests: Adaptive Deep Neural Network </li>
     <li>Publication: ASP-DAC, 软件学报, ICITES  </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -128,11 +128,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/ies.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Hui Fang(方卉)</h4>
-    <p><i>Time:   <!-- <br>email: <1270622349@qq.com></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <1270622349@qq.com></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -144,11 +144,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/ies.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Yixiong Huang(黄亦雄)</h4>
-    <p><i>Time:   <!-- <br>email: <1440604139@qq.com></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <1440604139@qq.com></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -156,11 +156,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/ies.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Ying Sun(孙影)</h4>
-    <p><i>Time:   <!-- <br>email: <3504902594@qq.com></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <3504902594@qq.com></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -172,11 +172,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/ies.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Zhiyuan Zhang(张志远)</h4>
-    <p><i>Time:   <!-- <br>email: <zy_zhang117@foxmail.com></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <zy_zhang117@foxmail.com></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -184,11 +184,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/ies.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Wanqiu Tian(田婉秋)</h4>
-    <p><i>Time:   <!-- <br>email: <tianwanqiu1993@163.com></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <tianwanqiu1993@163.com></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -200,11 +200,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/ies.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Qing Wang(王庆)</h4>
-    <p><i>Time:   <!-- <br>email: <1746098836@qq.com></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <1746098836@qq.com></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -212,11 +212,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/ies.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Yeda Ma(马冶达)</h4>
-    <p><i>Time:   <!-- <br>email: <2659277880@qq.com></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <2659277880@qq.com></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -228,11 +228,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Huiqi Bao(包慧琪)</h4>
-    <p><i>Time:   <!-- <br>email: <qt@mail.ynu.edu.cn></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <qt@mail.ynu.edu.cn></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -240,11 +240,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Li Yin(尹莉)</h4>
-    <p><i>Time:   <!-- <br>email: <yinli@mail.ynu.edu.cn></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <yinli@mail.ynu.edu.cn></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -256,11 +256,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Mi Wu(吴米)</h4>
-    <p><i>Time:   <!-- <br>email: <qt@mail.ynu.edu.cn></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <qt@mail.ynu.edu.cn></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -268,11 +268,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Biao Deng(邓彪)</h4>
-    <p><i>Time:   <!-- <br>email: <biaodeng@mail.ynu.edu.cn ></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <biaodeng@mail.ynu.edu.cn ></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -284,11 +284,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Jia Luo(罗佳)</h4>
-    <p><i>Time:   <!-- <br>email: <1070295820@qq.com></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <1070295820@qq.com></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -296,11 +296,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Lingyan Bao(包聆言)</h4>
-    <p><i>Time:   <!-- <br>email: <baolingyan0318@163.com></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <baolingyan0318@163.com></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -312,11 +312,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Rongqian Zhang(张榕倩)</h4>
-    <p><i>Time:   <!-- <br>email: <525420092@qq.com></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <525420092@qq.com></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -324,11 +324,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Zirui Wang(王子睿)</h4>
-    <p><i>Time:   <!-- <br>email: <332887020@qq.com></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <332887020@qq.com></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -340,11 +340,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Yiming Xiao(肖一鸣)</h4>
-    <p><i>Time:   <!-- <br>email: <></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -352,11 +352,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Zhaojie Yang(杨昭杰)</h4>
-    <p><i>Time:   <!-- <br>email: <yangzhaojieshan@qq.com></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <yangzhaojieshan@qq.com></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -368,11 +368,11 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Xianqi Zhang(张贤琪)</h4>
-    <p><i>Time:   <!-- <br>email: <></i> --></i></p>
+    <p><i>, Supervisor: Master student  <!-- <br>email: <></i> --></i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor: Master student </li>
     <li>Research Interests:  </li>
     <li>Publication:   </li>
+    <li>Reward:  </li> 
     </ul>
 
   </div>
@@ -419,29 +419,29 @@
 
 </div>
 
-<h2 id="alumni-毕业学生">Alumni （毕业学生）</h2>
+<h2 id="alumni-毕业学生">Alumni-毕业学生</h2>
 
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="https://ieslab-ynu.github.io/ies-lab/images/teampic/ies.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/ies.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Shigui Yang(杨世贵)</h4>
-    <p><i>2018-2021 <br />  <br /> Publications: TCAD，软件学报</i></p>
+    <p><i>2018-2021, Supervisor: Di Liu </i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor:  </li>
     <li>Publication: TCAD，软件学报  </li> 
-    <li>毕业去向:  </li>
+    <li>Reward: Graduated with honor (优秀毕业生) </li>
+    <li> 毕业去向: 丽江市工业信息化局 </li>
     </ul>
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="https://ieslab-ynu.github.io/ies-lab/images/teampic/ies.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/ies.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Shigui Yang(杨世贵)</h4>
-    <p><i>2018-2021 <br />  <br /> Publications: TCAD，软件学报</i></p>
+    <p><i>2018-2021, Supervisor: Di Liu </i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor:  </li>
     <li>Publication: TCAD，软件学报  </li> 
-    <li>毕业去向:  </li>
+    <li>Reward: Graduated with honor (优秀毕业生) </li>
+    <li> 毕业去向: 丽江市工业信息化局 </li>
     </ul>
   </div>
 
@@ -450,13 +450,13 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="https://ieslab-ynu.github.io/ies-lab/images/teampic/ies.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="https://ieslab-ynu.github.io/ies-lab/images/studentpic/ies.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Shigui Yang(杨世贵)</h4>
-    <p><i>2018-2021 <br />  <br /> Publications: TCAD，软件学报</i></p>
+    <p><i>2018-2021, Supervisor: Di Liu </i></p>
     <ul style="overflow: hidden">
-    <li>Supervisor:  </li>
     <li>Publication: TCAD，软件学报  </li> 
-    <li>毕业去向:  </li>
+    <li>Reward: Graduated with honor (优秀毕业生) </li>
+    <li> 毕业去向: 丽江市工业信息化局 </li>
     </ul>
   </div>
 
