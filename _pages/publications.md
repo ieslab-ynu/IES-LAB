@@ -9,6 +9,8 @@ permalink: /publications/
 
 # Publications
 
+<h2>Underline Indicates the authors from IES Lab. </h2>
+
 {% comment %}
 ## Group highlights
 
@@ -58,7 +60,7 @@ permalink: /publications/
 {% for publi in site.data.pub2022 %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /> **{{ publi.journal }}** <br /> {{ publi.year }}, {{ publi.type }} ({{ publi.level }}), (**{{ publi.note }}**) <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
 
@@ -67,7 +69,7 @@ permalink: /publications/
 {% for publi in site.data.pub2021 %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /> **{{ publi.journal }}** <br /> {{ publi.year }}, {{ publi.type }} ({{ publi.level }}), (**{{ publi.note }}**) <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
 
@@ -76,7 +78,7 @@ permalink: /publications/
 {% for publi in site.data.pub2020 %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /> **{{ publi.journal }}** <br /> {{ publi.year }}, {{ publi.type }} ({{ publi.level }}), (**{{ publi.note }}**) <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
 
@@ -85,7 +87,7 @@ permalink: /publications/
 {% for publi in site.data.pub2019 %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /> **{{ publi.journal }}** <br /> {{ publi.year }}, {{ publi.type }} ({{ publi.level }}), (**{{ publi.note }}**) <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
 
