@@ -10,152 +10,133 @@
 
 - name: Yu Yang(杨宇)
   photo: ies.png
-  info: Master student
-  email: 1048780146@qq.com
-  number_educ: 2
-  education1: 2019-2022
-  education2: Supervisor-Di Liu
+  info: Di Liu
+  time: 2019-2022
+  research: Adaptive Deep Neural Network
+  publication: ASP-DAC, 软件学报, ICITES
 
 - name: Hui Fang(方卉)
   photo: ies.png
-  info: Master student
-  email: 1270622349@qq.com
-  number_educ: 2
-  education1: 2019-2022
-  education2: Supervisor-Di Liu
+  info: Di Liu
+  time: 2019-2022
+  research: Adaptive Deep Neural Network
+  publication: ASP-DAC, 软件学报, ICITES
 
-  - name: Huiqi Bao(包慧琪)
+- name: Huiqi Bao(包慧琪)
   photo: rock.jpg
-  info: Master student
-  email: qt@mail.ynu.edu.cn
-  number_educ: 2
-  education1: 2019-2022
-  education2: Supervisor-Mingxiong Zhao
+  info: Mingxiong Zhao
+  time: 2019-2022
+  research: MEC
+  publication: IEEE Communication letters
 
 - name: Li Yin(尹莉)
   photo: yinli.jpg
-  info: Master student
-  email: yinli@mail.ynu.edu.cn
-  number_educ: 2
-  education1: 2019-2022
-  education2: Supervisor-Mingxiong Zhao
+  info: Mingxiong Zhao
+  time: 2019-2022
+  research: UAV with Wireless Communication
+  publication: 
 
 - name: Mi Wu(吴米)
   photo: wumi.jpg
-  info: Master student
-  email: wumi_54@163.com
-  number_educ: 2
-  education1: 2019-2022
-  education2: Supervisor-Mingxiong Zhao
+  info: Mingxiong Zhao
+  time: 2019-2022
+  research: UAV with Wireless Communication
+  publication: 
 
 - name: Yixiong Huang(黄亦雄)
   photo: ies.png
-  info: Master student
-  email: 1440604139@qq.com
-  number_educ: 2
-  education1: 2020-2023
-  education2: Supervisor-Di Liu
+  info: Di Liu
+  time: 2020-2023
+  research: 
+  publication: 
 
 - name: Ying Sun(孙影)
   photo: ies.png
-  info: Master student
-  email: 3504902594@qq.com
-  number_educ: 2
-  education1: 2020-2023
-  education2: Supervisor-Di Liu
+  info: Di Liu
+  time: 2020-2023
+  research: 
+  publication: 
   
 - name: Zhiyuan Zhang(张志远)
   photo: ies.png
-  info: Master student
-  email: zy_zhang117@foxmail.com
-  number_educ: 2
-  education1: 2020-2023
-  education2: Supervisor-Di Liu
+  info: Di Liu
+  time: 2020-2023
+  research: 
+  publication: 
   
 - name: Biao Deng(邓彪)
   photo: dengbiao.jpg
-  info: Master student
-  email: biaodeng@mail.ynu.edu.cn 
-  number_educ: 2
-  education1: 2020-2023
-  education2: Supervisor-Mingxiong Zhao
+  info: Mingxiong Zhao
+  time: 2020-2023
+  research: UAV with Wireless Communication
+  publication: 
 
 - name: Jia Luo(罗佳)
   photo: ies.jpg
-  info: Master student
-  email: 1070295820@qq.com
-  number_educ: 2
-  education1: 2020-2023
-  education2: Supervisor-Mingxiong Zhao
+  info: Mingxiong Zhao
+  time: 2020-2023
+  research: Federated Learning 
+  publication: 
 
 - name: Lingyan Bao(包聆言)
   photo: baolingyan.jpg
-  info: Master student
-  email: baolingyan0318@163.com
-  number_educ: 2
-  education1: 2020-2023
-  education2: Supervisor-Mingxiong Zhao
+  info: Mingxiong Zhao
+  time: 2020-2023
+  research: UAV with Wireless Communication、Federated Learning
+  publication: 
 
 - name: Wanqiu Tian(田婉秋)
   photo: ies.png
-  info: Master student
-  email: tianwanqiu1993@163.com
-  number_educ: 2
-  education1: 2021-2024
-  education2: Supervisor-Di Liu
+  info: Di Liu
+  time: 2021-2024
+  research: 
+  publication: 
   
 - name: Qing Wang(王庆)
   photo: ies.png
-  info: Master student
-  email: 1746098836@qq.com
-  number_educ: 2
-  education1: 2021-2024
-  education2: Supervisor-Di Liu
+  info: Di Liu
+  time: 2021-2024
+  research: 
+  publication: 
 
 - name: Yeda Ma(马冶达)
   photo: ies.png
-  info: Master student
-  email: 2659277880@qq.com
-  number_educ: 2
-  education1: 2021-2024
-  education2: Supervisor-Di Liu
+  info: Di Liu
+  time: 2021-2024
+  research: 
+  publication: 
 
 - name: Rongqian Zhang(张榕倩)
   photo: zhangrongqian.jpg
-  info: Master student
-  email: 525420092@qq.com 
-  number_educ: 2
-  education1: 2021-2024
-  education2: Supervisor-Mingxiong Zhao
+  info: Mingxiong Zhao
+  time: 2021-2024
+  research: Federated Learning
+  publication: 
 
 - name: Zirui Wang(王子睿)
   photo: wangzirui.jpg
-  info: Master student
-  email: 332887020@qq.com
-  number_educ: 2
-  education1: 2021-2024
-  education2: Supervisor-Mingxiong Zhao
+  info: Mingxiong Zhao
+  time: 2021-2024
+  research: UAV with Wireless Communication
+  publication: 
 
 - name: Yiming Xiao(肖一鸣)
   photo: rock.jpg
-  info: Master student
-  email: 1831403613@qq.com
-  number_educ: 2
-  education1: 2021-2024
-  education2: Supervisor-Mingxiong Zhao
+  info: Mingxiong Zhao
+  time: 2021-2024
+  research: UAV with Wireless Communication
+  publication: 
 
 - name: Zhaojie Yang(杨昭杰)
   photo: yangzhaojie.jpg
-  info: Master student
-  email: yangzhaojieshan@qq.com 
-  number_educ: 2
-  education1: 2021-2024
-  education2: Supervisor-Mingxiong Zhao
+  info: Mingxiong Zhao
+  time: 2021-2024
+  research: UAV with Wireless Communication
+  publication: 
 
 - name: Xianqi Zhang(张贤琪)
   photo: zhangxianqi.jpg
-  info: Master student
-  email: 1125690041@qq.com
-  number_educ: 2
-  education1: 2021-2024
-  education2: Supervisor-Mingxiong Zhao
+  info: Mingxiong Zhao
+  time: 2021-2024
+  research: Federated Learning
+  publication: 
