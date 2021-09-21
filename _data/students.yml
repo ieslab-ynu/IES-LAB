@@ -10,11 +10,12 @@
 
 - name: Yu Yang(杨宇)
   photo: ies.png
-  info: Di Liu
-  time: 2019-2022
-  research: Adaptive Deep Neural Network
-  publication: ASP-DAC, 软件学报, ICITES
-  
+  info: Master student
+  email: 1048780146@qq.com
+  number_educ: 2
+  education1: 2019-2022
+  education2: Supervisor-Di Liu
+
 - name: Hui Fang(方卉)
   photo: ies.png
   info: Master student
@@ -80,7 +81,7 @@
   education2: Supervisor-Mingxiong Zhao
 
 - name: Li Yin(尹莉)
-  photo: rock.jpg
+  photo: yinli.jpg
   info: Master student
   email: yinli@mail.ynu.edu.cn
   number_educ: 2
@@ -88,7 +89,7 @@
   education2: Supervisor-Mingxiong Zhao
 
 - name: Mi Wu(吴米)
-  photo: rock.jpg
+  photo: wumi.jpg
   info: Master student
   email: qt@mail.ynu.edu.cn
   number_educ: 2
@@ -96,7 +97,7 @@
   education2: Supervisor-Mingxiong Zhao
 
 - name: Biao Deng(邓彪)
-  photo: rock.jpg
+  photo: dengbiao.jpg
   info: Master student
   email: biaodeng@mail.ynu.edu.cn 
   number_educ: 2
@@ -112,7 +113,7 @@
   education2: Supervisor-Mingxiong Zhao
 
 - name: Lingyan Bao(包聆言)
-  photo: rock.jpg
+  photo: baolingyan.jpg
   info: Master student
   email: baolingyan0318@163.com
   number_educ: 2
@@ -120,7 +121,7 @@
   education2: Supervisor-Mingxiong Zhao
 
 - name: Rongqian Zhang(张榕倩)
-  photo: rock.jpg
+  photo: zhangrongqian.jpg
   info: Master student
   email: 525420092@qq.com 
   number_educ: 2
@@ -128,7 +129,7 @@
   education2: Supervisor-Mingxiong Zhao
 
 - name: Zirui Wang(王子睿)
-  photo: rock.jpg
+  photo: wangzirui.jpg
   info: Master student
   email: 332887020@qq.com
   number_educ: 2
@@ -138,13 +139,13 @@
 - name: Yiming Xiao(肖一鸣)
   photo: rock.jpg
   info: Master student
-  email: 
+  email: 1831403613@qq.com
   number_educ: 2
   education1: 2021-2024
   education2: Supervisor-Mingxiong Zhao
 
 - name: Zhaojie Yang(杨昭杰)
-  photo: rock.jpg
+  photo: yangzhaojie.jpg
   info: Master student
   email: yangzhaojieshan@qq.com 
   number_educ: 2
@@ -152,9 +153,9 @@
   education2: Supervisor-Mingxiong Zhao
 
 - name: Xianqi Zhang(张贤琪)
-  photo: rock.jpg
+  photo: zhangxianqi.jpg
   info: Master student
-  email: 
+  email: 1125690041@qq.com
   number_educ: 2
   education1: 2021-2024
   education2: Supervisor-Mingxiong Zhao

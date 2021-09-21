@@ -8,21 +8,21 @@
   job: 丽江市工业信息化局
 
 
-- name: Shigui Yang(杨世贵)
+- name: Wentao Li(李文涛)
   photo: ies.png
   duration: 2018-2021
   degree:
-  supervisor: Di Liu
+  supervisor: Mingxiong Zhao
   reward: Graduated with honor (优秀毕业生)
-  publication: TCAD，软件学报
-  job: 丽江市工业信息化局
+  publication: TGCN
+  job: 中国能源建设集团云南省电力设计院有限公司
   
   
-- name: Shigui Yang(杨世贵)
+- name: Junjie Yu(余俊杰)
   photo: ies.png
   duration: 2018-2021
   degree:
-  supervisor: Di Liu
+  supervisor: Mingxiong Zhao
   reward: Graduated with honor (优秀毕业生)
-  publication: TCAD，软件学报
-  job: 丽江市工业信息化局
+  publication: IEEE TVT, WCNC, GlobalCom
+  job: 芯片行业
