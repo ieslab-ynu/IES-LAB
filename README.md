@@ -2,7 +2,9 @@
 # IES Lab 智能边缘系统实验室的网页
 注意网页更新信息在_data/中寻找
 
+## 更新日志
 
+- 2021年9月21日：将本科生研究生信息单独分开，`_data/`下新增`bsstudent.yml`存放本科生信息
 
 # Allan Lab Website
 
