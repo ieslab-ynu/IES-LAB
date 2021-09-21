@@ -24,6 +24,30 @@
   education1: 2019-2022
   education2: Supervisor-Di Liu
 
+  - name: Huiqi Bao(包慧琪)
+  photo: rock.jpg
+  info: Master student
+  email: qt@mail.ynu.edu.cn
+  number_educ: 2
+  education1: 2019-2022
+  education2: Supervisor-Mingxiong Zhao
+
+- name: Li Yin(尹莉)
+  photo: yinli.jpg
+  info: Master student
+  email: yinli@mail.ynu.edu.cn
+  number_educ: 2
+  education1: 2019-2022
+  education2: Supervisor-Mingxiong Zhao
+
+- name: Mi Wu(吴米)
+  photo: wumi.jpg
+  info: Master student
+  email: wumi_54@163.com
+  number_educ: 2
+  education1: 2019-2022
+  education2: Supervisor-Mingxiong Zhao
+
 - name: Yixiong Huang(黄亦雄)
   photo: ies.png
   info: Master student
@@ -48,6 +72,31 @@
   education1: 2020-2023
   education2: Supervisor-Di Liu
   
+- name: Biao Deng(邓彪)
+  photo: dengbiao.jpg
+  info: Master student
+  email: biaodeng@mail.ynu.edu.cn 
+  number_educ: 2
+  education1: 2020-2023
+  education2: Supervisor-Mingxiong Zhao
+
+- name: Jia Luo(罗佳)
+  photo: ies.jpg
+  info: Master student
+  email: 1070295820@qq.com
+  number_educ: 2
+  education1: 2020-2023
+  education2: Supervisor-Mingxiong Zhao
+
+- name: Lingyan Bao(包聆言)
+  photo: baolingyan.jpg
+  info: Master student
+  email: baolingyan0318@163.com
+  number_educ: 2
+  education1: 2020-2023
+  education2: Supervisor-Mingxiong Zhao
+
+
 - name: Wanqiu Tian(田婉秋)
   photo: ies.png
   info: Master student
@@ -71,54 +120,6 @@
   number_educ: 2
   education1: 2021-2024
   education2: Supervisor-Di Liu
-
-- name: Huiqi Bao(包慧琪)
-  photo: rock.jpg
-  info: Master student
-  email: qt@mail.ynu.edu.cn
-  number_educ: 2
-  education1: 2019-2022
-  education2: Supervisor-Mingxiong Zhao
-
-- name: Li Yin(尹莉)
-  photo: yinli.jpg
-  info: Master student
-  email: yinli@mail.ynu.edu.cn
-  number_educ: 2
-  education1: 2019-2022
-  education2: Supervisor-Mingxiong Zhao
-
-- name: Mi Wu(吴米)
-  photo: wumi.jpg
-  info: Master student
-  email: wumi_54@163.com
-  number_educ: 2
-  education1: 2019-2022
-  education2: Supervisor-Mingxiong Zhao
-
-- name: Biao Deng(邓彪)
-  photo: dengbiao.jpg
-  info: Master student
-  email: biaodeng@mail.ynu.edu.cn 
-  number_educ: 2
-  education1: 2020-2023
-  education2: Supervisor-Mingxiong Zhao
-
-- name: Jia Luo(罗佳)
-  photo: luojia.jpg
-  info: Master student
-  email: 1070295820@qq.com
-  number_educ: 2
-  education1: 2020-2023
-  education2: Supervisor-Mingxiong Zhao
-
-- name: Lingyan Bao(包聆言)
-  photo: baolingyan.jpg
-  info: Master student
-  email: baolingyan0318@163.com
-  number_educ: 2
-  education1: 2020-2023
-  education2: Supervisor-Mingxiong Zhao
 
 - name: Rongqian Zhang(张榕倩)
   photo: zhangrongqian.jpg
