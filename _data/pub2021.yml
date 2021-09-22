@@ -1,4 +1,4 @@
-- title: "HSCoNAS: Hardware-Software Co-Design of Efficient DNNs via Neural Architecture Search" 
+- title: "HSCoNAS： Hardware-Software Co-Design of Efficient DNNs via Neural Architecture Search" 
     description: NA 
     authors: Xiangzhong Luo+,<ins> Di Liu </ins>, Shuo Huai, and Weichen Liu
     journal: In 2021 Design, Automation & Test in Europe Conference & Exhibition (DATE)
@@ -20,7 +20,7 @@
   type: Conference 
   level: CCF B 
 
-- title: "ZeroBN: Learning Compact Neural Networks For Latency-Critical Edge Systems" 
+- title: "ZeroBN： Learning Compact Neural Networks For Latency-Critical Edge Systems" 
   description: NA 
   authors: Shuo Huai+, Lei Zhang+, <ins> Di Liu </ins>, Weichen Liu, and Ravi Subramaniam
   journal: In 2021 58th ACM/IEEE Design Automation Conference (DAC)
@@ -109,7 +109,7 @@
   type: journal
   level: CCF A 
 
-- title: "EDLAB: A Benchmark for Edge Deep Learning Accelerators" 
+- title: "EDLAB：A Benchmark for Edge Deep Learning Accelerators" 
   description: NA 
   authors: Hao Kong+, Shuo Huai+, <ins>Di Liu</ins>, Lei Zhang, Hui Chen, Shien Zhu, Shiqing Li
   journal:  IEEE Design & Test (2021)
