@@ -12,17 +12,16 @@
     url: 
     display:  
   type: Conference 
-  level: CCF B 
+  level: CCF C 
     
 
 - title: "EdgeNAS：Discovering Efficient Neural Architectures for Edge Systems" 
   description: NA 
-  authors: <ins>Ze-Han Wang</ins> , Zhenli He,<ins> Hui Fang, Yi-Xiong Huang, Ying Sun, Yu Yang, Zhi-Yuan Zhang, Di Liu</ins> 
+  authors: Xiangzhong Luo, <ins>Di Liu</ins>, Hao Kong, and Weichen Liu
   journal: In 2020 IEEE 38th International Conference on Computer Design (ICCD)
   year: 2020
     url: 
     display:  
-  display:  
   type: Conference 
   level: CCF B 
 
@@ -35,6 +34,5 @@
   year: 2020 
     url: 
     display:  
-  display:  
   type: Journal
   level: CCF A 
