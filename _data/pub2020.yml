@@ -1,37 +1,40 @@
+#对于作者，如果是实验室的学生加上<ins> </ins>
+#
+#
 
-- title:"Joint Offloading and Resource Allocation for Time-Sensitive Multi-Access Edge Computing Network"
- description: NA 
- authors: <ins>Jun-Jie Yu, Mingxiong Zhao, Wen-Tao Li, Di Liu</ins> , Shaowen Yao, and Wei Feng
- journal: In 2020 IEEE Wireless Communications and Networking Conference (WCNC)
- year: 2020
- link: 
- url:  
- display:  
- type: Conference 
- level: CCF B 
+
+- title: "Joint Offloading and Resource Allocation for Time-Sensitive Multi-Access Edge Computing Network"
+  description: NA 
+  authors: <ins>Jun-Jie Yu, Mingxiong Zhao, Wen-Tao Li, Di Liu</ins> , Shaowen Yao, and Wei Feng
+  journal: In 2020 IEEE Wireless Communications and Networking Conference (WCNC)
+  year: 2020
+  link: 
+    url: 
+    display:  
+  type: Conference 
+  level: CCF B 
     
 
-
- - title:  "EdgeNAS: Discovering Efficient Neural Architectures for Edge Systems" 
- description: NA 
- authors: <ins>Ze-Han Wang</ins> , Zhenli He,<ins> Hui Fang, Yi-Xiong Huang, Ying Sun, Yu Yang, Zhi-Yuan Zhang, Di Liu</ins> 
- journal: In 2020 IEEE 38th International Conference on Computer Design (ICCD)
- year: 2020
- link: 
- url:  
- display:  
- type: Conference 
- level: CCF B 
-
+- title: "EdgeNAS: Discovering Efficient Neural Architectures for Edge Systems" 
+  description: NA 
+  authors: <ins>Ze-Han Wang</ins> , Zhenli He,<ins> Hui Fang, Yi-Xiong Huang, Ying Sun, Yu Yang, Zhi-Yuan Zhang, Di Liu</ins> 
+  journal: In 2020 IEEE 38th International Conference on Computer Design (ICCD)
+  year: 2020
+    url: 
+    display:  
+  display:  
+  type: Conference 
+  level: CCF B 
 
 
-- title:  "Energy-Efficient Parallel Real-Time Scheduling on Clustered Multi-Core"
- description: NA 
- authors: Ashikahmed Bhuiyan, <ins>Di Liu</ins>, Aamir Khan, Abusayeed Saifullah, Nan Guan, and Zhishan Guo
- journal: IEEE Transactions on Parallel and Distributed Systems (TPDS)
- year: 2020 
- link: 
- url:  
- display:  
- type: Journal
- level: CCF A 
+
+- title: "Energy-Efficient Parallel Real-Time Scheduling on Clustered Multi-Core"
+  description: NA 
+  authors: Ashikahmed Bhuiyan, <ins>Di Liu</ins>, Aamir Khan, Abusayeed Saifullah, Nan Guan, and Zhishan Guo
+  journal: IEEE Transactions on Parallel and Distributed Systems (TPDS)
+  year: 2020 
+    url: 
+    display:  
+  display:  
+  type: Journal
+  level: CCF A 
