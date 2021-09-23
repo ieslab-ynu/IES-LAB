@@ -1,4 +1,4 @@
-   - title: "Analyzing GEDF Scheduling for Parallel Real-Time Tasks with Arbitrary Deadlines"
+- title: "Analyzing GEDF Scheduling for Parallel Real-Time Tasks with Arbitrary Deadlines"
  description: NA 
  authors: Xu Jiang, Nan Guan, <ins>Di Liu</ins>, Weichen Liu
  journal: Design, Automation and Test In Europe (DATE’19), Florence, Italy
@@ -7,7 +7,7 @@
  type: Conference 
  level: CCF B
 
-     - title: "Energy-Efficient Real-Time Scheduling of DAGs on Clustered Multi-Core Platforms" 
+- title: "Energy-Efficient Real-Time Scheduling of DAGs on Clustered Multi-Core Platforms" 
  description: NA 
  authors: Zhishan Guo, Ashikahmed Bhuiyan, <ins>Di Liu</ins>, Aamir Khan, Abusayeed Saifullah, Nan Guan
  journal: 25TH IEEE Real-Time and Embedded Technology and applications symposium (RTAS’19)
@@ -16,7 +16,7 @@
 type: Conference 
  level: CCF B
 
-    - title: "Development of Private Processes：A Refinement Approach" 
+- title: "Development of Private Processes：A Refinement Approach" 
  description: NA 
  authors: Qi Mo, Fei Dai, <ins>Di Liu</ins>, Jianglong Qin, Zhongwen Xie and Tong Li
  journal: IEEE Access, vol. 7, pp. 31517-31534
@@ -24,7 +24,7 @@ type: Conference
  url: https://ieeexplore.ieee.org/document/8588327
 type: Article
 
-    - title: "Knowledge Graph-Based Image Classification Refinement" 
+- title: "Knowledge Graph-Based Image Classification Refinement" 
  description: NA 
  authors: Dehai Zhang, Menglong Cui, Yun Yang, Po Yang, Cheng Xie, <ins>Di Liu</ins>, Beibei Yu, Zhibo Chen 
  journal: IEEE Access, vol. 7, pp. 57678-57690
@@ -42,7 +42,8 @@ type: Article
  display:  
  type: Article 
 
-     - title: "A process partitioning technique for constructing decentralized web service compositions." 
+
+- title: "A process partitioning technique for constructing decentralized web service compositions." 
  description: NA 
  authors: Gang Xue, <ins>Di Liu</ins>, Junsong Liu, and Shaowen Yao 
  journal: Software: Practice and Experience
@@ -53,7 +54,7 @@ type: Article
  type: Article
  level: CCF B
 
-     - title: "Real-Time Scheduling of DAG Tasks with Arbitrary Deadlines." 
+- title: "Real-Time Scheduling of DAG Tasks with Arbitrary Deadlines." 
  description: NA 
  authors: Kankan Wang, Xu Jiang, Nan Guan, <ins>Di Liu</ins>, Weichen Liu, and Qingxu Deng 
  journal: ACM Transactions on Design Automation of Electronic Systems (TODAES) 
@@ -64,7 +65,7 @@ type: Article
  type: Article
  level: CCF B
 
-     - title: "CASS： Criticality-Aware Standby-Sparing for real-time systems." 
+- title: "CASS： Criticality-Aware Standby-Sparing for real-time systems." 
  description: NA 
  authors: Mingxiong Zhao,<ins>Di Liu</ins>, Xu Jiang, Weichen Liu, Gang Xue, Cheng Xie, Yun Yang, and Zhishan Guo 
  journal: Journal of Systems Architecture
